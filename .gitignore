@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Hugging Face / model caches
+.cache/
+
+# IDEs / OS
+.idea/
+.vscode/
+.DS_Store
